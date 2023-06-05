@@ -1,5 +1,7 @@
 ### Hello There :smile: :wave:
-Python Developer
+Software Developer
+Owner of none! Student of all!
+Dream goal : Jack of all trades ⚛️: 5️⃣:
 KNUST@24
 Data Science Enthusiast
-![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasper-tech&show_icons=true&theme=radical)
+![Jasper's GitHub stats](![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,reactjs))

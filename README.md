@@ -8,14 +8,14 @@
 
 - 👯 KNUST **@24**
 
-- 📫 my email **curdyj@gmail.com**
+- 📫 my email : **curdyj78@gmail.com**
 
 - ⚡ Fun fact **I'm a fun guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nationcurdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nationcurdy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/afeawo sandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afeawo sandy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/afeawosandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afeawo sandy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

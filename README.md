@@ -1,33 +1,51 @@
-<h1 align="center">Hi 👋 Jasper Here</h1>
-<h3 align="center">Software Engineer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Jasper;Software+Engineer;&center=true&width=380&height=50">
+
+  [![Twitter Follow](https://img.shields.io/twitter/follow/nationcurdy?logo=twitter&style=for-the-badge)](https://twitter.com/nationcurdy)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/afeawosandy)
+</div>
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Graduate from KNUST (2024)
+- 💻 Passionate about building innovative software solutions
+- 📫 Reach me at: curdyj78@gmail.com
+- ⚡ Fun fact: I bring creativity and enthusiasm to every project!
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 
-<p align="left"> <a href="https://twitter.com/nationcurdy" target="blank"><img src="https://img.shields.io/twitter/follow/nationcurdy?logo=twitter&style=for-the-badge" alt="nationcurdy" /></a> </p>
+## 📊 GitHub Stats
 
-- 🔭 COMPUTER ENGINEER
-
-- 👯 KNUST **2024**
-
-- 📫 my email : **curdyj78@gmail.com**
-
-- ⚡ Fun fact **I'm a fun guy**
-
- 
-
-
-
-<h3 align="left">Reach me:</h3>
-<p align="left">
-<a href="https://twitter.com/nationcurdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nationcurdy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/afeawosandy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afeawo sandy" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper-tech&layout=compact&theme=tokyonight" alt="Top Languages" />
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasper-tech&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🤝 Let's Connect!
+
+<p align="left">
+  <a href="https://twitter.com/nationcurdy" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/afeawosandy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
-
-<h3 align="left">My Stack:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img 
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasper-tech&show_icons=true&locale=en&layout=compact" alt="jasper-tech" /></p>
-
-

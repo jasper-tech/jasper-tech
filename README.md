@@ -12,7 +12,7 @@
 - 💻 Passionate about building innovative software solutions
 - 🌱 Currently exploring Cloud Technologies and DevOps
 - 🚀 Always learning and growing in the tech space
-- 📫 Reach me at: curdyj78@gmail.com
+- 📫 Reach me at: sandyjasper922@gmail.com
 - ⚡ Fun fact: I bring creativity and enthusiasm to every project!
 
 ## 🛠️ Tech Stack
@@ -50,10 +50,10 @@
   <a href="https://twitter.com/nationcurdy" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/afeawosandy" target="_blank">
+  <a href="https://linkedin.com/in/afeawo-sandy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:curdyj78@gmail.com">
+  <a href="mailto:sandyjasper922@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
